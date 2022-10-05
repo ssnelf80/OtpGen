@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtpGen", "OtpGen\OtpGen.csproj", "{F15754CE-B5CB-4276-BAF5-77A9FD2BC206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15754CE-B5CB-4276-BAF5-77A9FD2BC206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15754CE-B5CB-4276-BAF5-77A9FD2BC206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15754CE-B5CB-4276-BAF5-77A9FD2BC206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15754CE-B5CB-4276-BAF5-77A9FD2BC206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
